@@ -1,5 +1,5 @@
 # Chinese-Summarization-Models
- The purpose of this repository is to better train,finetune and use text summary models in Chinese datasets
+ The purpose of this repository is to train,finetune and use text summary models convenient in Chinese datasets
 
 ### Aiming to implement the following models
 
